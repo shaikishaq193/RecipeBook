@@ -1,0 +1,32 @@
+* {
+	font-family: Helvetica, sans-serif;
+	color: #5D3FD3;
+	text-align: center;
+}
+
+img {
+	height: auto;
+	width: 500px;
+	outline: solid;
+}
+
+h1, h3 {
+	font-family: "Lucida Handwriting", cursive;
+	font-weight: bold;
+}
+
+h1 {
+	font-size: 64px;
+}
+
+h3 {
+	font-size: 32px;
+}
+
+ol, ul {
+	display: inline-block;
+}
+
+li {
+	text-align: left;
+}
